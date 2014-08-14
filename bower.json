@@ -1,0 +1,11 @@
+{
+    "name": "todo-angularjs",
+    "version": "0.1.0",
+    "dependencies": {
+        "angular": "1.2.20",
+        "todomvc-common": "~0.1.4",
+        "angular-ui-router"  :    "0.2.10",
+        "angular-local-storage"  :    "0.0.1"
+    }
+
+}
